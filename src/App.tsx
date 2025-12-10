@@ -28,6 +28,8 @@ const App: FC = () => {
     }))
   }
 
+  console.log("testing");
+
   return (
     <div className="App">
       <div className='w-full h-screen flex flex-col justify-center items-center'>
